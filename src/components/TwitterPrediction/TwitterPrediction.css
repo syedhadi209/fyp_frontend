@@ -1,0 +1,25 @@
+.twitter-url-input form {
+  display: flex;
+  gap: 20px;
+}
+
+.twitter-url-input button {
+  width: 200px;
+  background: #3f72af;
+  border: none;
+  outline: none;
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.twitter-prediction-main {
+  padding: 30px;
+}
+
+.twitter-prediction-main h2 {
+  margin-bottom: 20px;
+}

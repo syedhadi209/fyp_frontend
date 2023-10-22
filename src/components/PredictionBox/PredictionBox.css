@@ -1,0 +1,16 @@
+.tweets-container {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.tweet-analysis {
+  width: 100%;
+  border: 1px solid #cfd9de;
+  min-height: 100%;
+  border-radius: 8px;
+  padding: 10px;
+  overflow: auto;
+}

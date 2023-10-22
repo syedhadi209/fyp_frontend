@@ -1,0 +1,17 @@
+.tab {
+  display: inline-block;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out; /* Add transition */
+  width: 100%;
+  background: #3f72af;
+  color: white;
+  outline: none;
+  border: 1px solid #3f72af;
+  text-align: center;
+}
+
+.tab.active {
+  background: white;
+  color: #3f72af;
+}
